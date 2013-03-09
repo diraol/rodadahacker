@@ -1,0 +1,65 @@
+body {
+        padding-top: 20px;
+        padding-bottom: 60px;
+      }
+
+      /* Custom container */
+      .container {
+        margin: 0 auto;
+        max-width: 1000px;
+      }
+      .container > hr {
+        margin: 10px 0;
+      }
+
+      /* Main marketing message and sign up button */
+      .jumbotron {
+        margin: 40px 0;
+        text-align: center;
+      }
+      .jumbotron h1 {
+        font-size: 60px;
+        line-height: 1;
+        font-family: "Patrick Hand SC";
+		 color: #1F9CA7;
+
+      }
+      .jumbotron .lead {
+        font-size: 20px;
+        line-height: 1.25;
+           }
+      .jumbotron .btn {
+        font-size: 21px;
+        padding: 14px 24px;
+      }
+            
+      h2 {
+      font-size: 30px;
+        line-height: 1;
+        font-family: "Patrick Hand SC";
+		 color: #1F9CA7;
+      
+      }
+      
+      .botao-participar {
+    font-size: 21px;
+
+background: #b0d4e3; /* Old browsers */
+background: -moz-linear-gradient(left, #b0d4e3 0%, #88bacf 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,#b0d4e3), color-stop(100%,#88bacf)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(left, #b0d4e3 0%,#88bacf 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(left, #b0d4e3 0%,#88bacf 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(left, #b0d4e3 0%,#88bacf 100%); /* IE10+ */
+background: linear-gradient(to right, #b0d4e3 0%,#88bacf 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b0d4e3', endColorstr='#88bacf',GradientType=1 ); /* IE6-9 */
+}
+
+
+      /* Supporting marketing content */
+      .marketing {
+        margin: 60px 0;
+      }
+      .marketing p + h4 {
+        margin-top: 28px;
+      }
+

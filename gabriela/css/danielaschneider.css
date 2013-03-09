@@ -1,0 +1,43 @@
+/*!
+ * danielaschneider
+ *
+ * Copyright 2013 kilate
+ * http://www.kilate.comb.br
+ *
+ */
+@
+
+
+/* Typography */
+
+.base-font {
+	font-family:'FrutigerNeueW01-Regular', Helvetica, Arial, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	line-height: 18px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family:'Frutiger Neue W01 Bd', Helvetica, Arial, sans-serif;
+	font-weight: normal;
+}
+
+p {
+	font-family:'Apollo W01 Semi Bold', TimesNewRoman, Georgia, serif;
+	font-weight: normal;
+}
+
+
+/* Detelhes */
+.nav {
+	background-color: #d0004d;
+	border: none;
+}
+
+.navbar .nav > li > a {
+    color: #000;
+    float: none;
+    padding: 10px 15px;
+    text-decoration: none;
+    text-shadow: none;
+}
